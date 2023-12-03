@@ -1,0 +1,9 @@
+<Configuration>
+  <Remove All="FALSE">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="vi-vn"/>
+      <ExcludeApp ID="Word" />
+      <ExcludeApp ID="PowerPoint" />
+    </Product>
+  </Remove>
+</Configuration>
