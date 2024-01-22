@@ -4,4 +4,4 @@ Guide: tải file xml vào cùng thư mục mà odt đã giải , sau đó dùng
 ```
 setup.exe /
 ```
-để show lệnh ra, sau đó sử dụng theo hướng dẫn
+để show lệnh ra, sau đó sử dụng theo hướng dẫn.
